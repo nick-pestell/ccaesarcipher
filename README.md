@@ -9,11 +9,11 @@ A caesar cipher program written in c. Features auotomatic decryption.
 
 ## Build
 
-1. `mkdir obj' 
-2. cd src && `make`
-3. cd ..
+1. `mkdir obj && mkdir bin` 
+2. `cd src && make`
+3. `cd ..`
 
 ## Usage
 
-1. cd bin && `./caeser_cipher.exe` 
-2. provide a .txt file for encryption/decryption when prompted
+1. `cd bin && ./caeser_cipher.exe` 
+2. at runtime, provide a .txt file for encryption/decryption when prompted

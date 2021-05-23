@@ -4,14 +4,16 @@ A caesar cipher program written in c. Features auotomatic decryption.
 
 ## Dependencies
 
-	* gcc 
-	* make
+* gcc 
+* make
 
 ## Build
 
-Run `make` in the src directory.
+1. `mkdir obj' 
+2. cd src && `make`
+3. cd ..
 
 ## Usage
 
-Run `./caeser_cipher.exe' in the bin directory and provide a .txt 
-file for encryption/decryption.
+1. cd bin && `./caeser_cipher.exe` 
+2. provide a .txt file for encryption/decryption when prompted

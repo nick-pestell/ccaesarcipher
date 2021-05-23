@@ -2,7 +2,7 @@
 
 A caesar cipher program written in c. Features auotomatic decryption.
 
-## Dependencies
+## Prerequisites
 
 * gcc 
 * make

@@ -24,4 +24,4 @@ A caesar cipher program written in c. Features auotomatic decryption.
 ### Option 2
 
 1. `cd bin`
-2. Provide paramters via command line arguments and a .txt file via input redirection (<). e.g. `\.caesar_cipher.exe decrypt auto < test.txt`.
+2. Provide paramters via command line arguments and a .txt file via input redirection (<). e.g. `/.caesar_cipher.exe decrypt auto < test.txt`.

@@ -15,5 +15,13 @@ A caesar cipher program written in c. Features auotomatic decryption.
 
 ## Usage
 
-1. `cd bin && ./caeser_cipher.exe` 
-2. at runtime, provide a .txt file for encryption/decryption when prompted
+### Option 1
+
+1. `cd bin`
+2. `./caesar_cipher.exe`
+3. At runtime, provide a paramters and .txt file for encryption/decryption when prompted.
+
+### Option 2
+
+1. `cd bin`
+2. Provide paramters via command line arguments and a .txt file via input redirection (<). e.g. `\.caesar_cipher.exe decrypt auto < test.txt`.
